@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Phenicie",
+    "slug": "Phenicie-Matthieu-Sibert",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon/endIcon.png",
+    "splash": {
+      "image": "./assets/icon/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier":"com.matthieusibert.phenicie",
+      "supportsTablet": true
+    },
+    "android": {
+      "package":"com.matthieusibert.phenicie",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon/icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/icon/icon.png"
+    }
+  }
+}

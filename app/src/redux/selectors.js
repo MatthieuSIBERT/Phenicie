@@ -1,0 +1,1 @@
+export const getContact = store => store.contactList;

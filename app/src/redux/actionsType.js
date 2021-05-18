@@ -1,0 +1,1 @@
+export const RECUP_CONTACT_LIST = 'RECUP_CONTACT_LIST'
